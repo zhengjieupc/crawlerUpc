@@ -1,0 +1,32 @@
+SearchControllerTypeValue	
+SearchEquipmentAdminName	
+SearchEquipmentCategoryId	
+SearchEquipmentLabel	
+SearchEquipmentName	
+SearchOrgId:5fba40c6-c44b-4980-bd15-be2f391c50f7
+SearchQualification	
+SearchRoomId	
+SearchScopeOfApplication	
+ShowType:Icon
+date:Fri Nov 18 2016 23:10:30 GMT 0800
+isHome:true
+isManage:false
+isOpen:true
+order:asc
+page:1
+rows:10
+sort:Name
+
+
+http://dxyqsb.upc.edu.cn/Equipment/PaginationList?ShowType=Icon&isHome=true&isManage=false&isOpen=true&order=asc&page=1&rows=6&sort=Name&date=Fri%20Nov%2018%202016%2023:28:30%20GMT%200800
+
+
+Id:8097c4d6-9b93-4f24-b853-8c408f5474de
+date:201
+
+http://dxyqsb.upc.edu.cn/Equipment/GetEquipmentCurStatusInfo?Id=108ade2e-b528-4fba-8a02-13f72cd0565b&date=201
+
+http://dxyqsb.upc.edu.cn/Equipment/GetEquipmentCurStatusInfo?Id=108ade2e-b528-4fba-8a02-13f72cd0565b&date=201
+{"UserId":"421e88ee-4a7e-4988-9723-f471d6b7ef06","UserName":"6站全自动比表面","SampleNo":null,"SampleItemName":null,"AppointmentBeginTime":null,"AppointmentEndTime":null,"TestBeginTime":null,"TestEndTime":null,"Remark":"当前使用者:6站全自动比表面, 联系电话:13311234569","EquipmentStatus":1,"EquipmentStatusName":"正在使用","EquipmentStatusIcon":"","EquipmentStatusNameStr":"  正在使用"}
+
+
